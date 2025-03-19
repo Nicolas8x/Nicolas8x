@@ -17,6 +17,6 @@ jobs:
       - name: GitHub - Activity - Readme
         uses: Readme-Workflows/recent-activity@v2.4.1
         env:
-          GH_USERNAME: "LeoSebasSP"
+          GH_USERNAME: "Nicolas8x"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CONFIG_FILE: .github/recent-activity.config.yml
