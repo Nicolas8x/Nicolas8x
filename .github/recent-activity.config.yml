@@ -1,0 +1,4 @@
+# recent-activity.config.yml
+settings:
+  limit: 5  # Número de actividades recientes a mostrar
+  format: "short"  # Usa "short" o "long"
